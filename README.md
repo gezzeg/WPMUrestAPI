@@ -2,7 +2,7 @@
 This simple Wordpress Multisite REST API JSON example will show you all blog id in json format.
 
 # COMPATIBALITY
-Testted on WORDPRESS 4.8.1
+Tested on WORDPRESS 4.8.1
 
 # HOW TO USE
 1. Install the plugin as usual
